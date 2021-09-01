@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nitin Kapoor
 #### ~~Designer-Developer-Coder~~
-I'm from **India**, currently a *first yearite*. I really enjoy learning languages and frameworks.    
+I'm from **India**, currently in the second year of my college. I really enjoy learning languages and frameworks.    
 Love to **code**   
 My hobbies are: *swimming, cycling, Badminton*....
 
