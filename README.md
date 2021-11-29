@@ -1,13 +1,12 @@
 ### Hi there 👋, my name is Nitin Kapoor
 #### ~~Designer-Developer-Coder~~
-I'm from **India**, currently in the second year of my college. I really enjoy learning languages and frameworks.    
+I'm currently in the second year of my college.
 Love to **code**   
-My hobbies are: *swimming, cycling, Badminton*....
+
 
 Skills: **JS / HTML / CSS / PYTHON / C++**
 
-- 🔭 I’m currently working on my future... 
-- 🌱 I’m currently learning DSA 
+
 - 📫 How to reach me: @stevenkapoor85@gmail.com 
 
 
