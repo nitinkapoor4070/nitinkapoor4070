@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Nitin Kapoor
 #### ~~Designer-Developer-Coder~~
 I'm currently in the second year of my college.
-Love to **code**   
+Love to **learn**   
 
 
 Skills: **JS / HTML / CSS / PYTHON / C++**
