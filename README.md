@@ -1,10 +1,12 @@
 ### Hi there 👋, my name is Nitin Kapoor
 #### ~~Designer-Developer-Coder~~
-I'm currently in the second year of my college.
+
 Love to **learn**   
+Joined Texas Instruments as an Analog Engineer.
 
+Electronics Skills: **Digital Electronics / Analog Electronics / Semiconductor Packaging / Verilog**
 
-Skills: **JS / HTML / CSS / PYTHON / C++**
+Software Skills: **JS / HTML / CSS / PYTHON / C++**
 
 
 - 📫 How to reach me: @stevenkapoor85@gmail.com 
